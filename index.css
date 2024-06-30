@@ -1,0 +1,30 @@
+body {
+    background-color: silver;
+}
+
+h1.h1 {
+    font-size: 36px;
+    font-family: "Garamond", "Lucida Handwriting", 'Times New Roman', Times, serif;
+}
+
+button.b1,
+button.b2,
+button.b3 {
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button.b1 {
+    background-color: forestgreen;
+    color: violet;
+}
+
+button.b2 {
+    background-color: royalblue;
+    color: aqua;
+}
+
+button.b3 {
+    background: hotpink;
+    color: black;
+
+}
